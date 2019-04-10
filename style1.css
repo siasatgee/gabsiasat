@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css?family=Petit+Formal+Script');
+
+#katawan{
+    text-align: center;
+    background-image: url("passtel.svg");
+    font-family: 'petit formal script'  ;
+    font-size: 1.005em;
+}
+
+
+
+
+#dlsu {  
+    background-image: url("passtel.svg");
+    font-family: 'petit formal script'  ;
+    margin-top: 3px ;
+    
+}
+
+#kalye {  
+    background-image: url("passtel.svg");
+    font-family: 'petit formal script'  ;
+    
+}
+
+#guwardiya { text-align: center;
+    
+}
+
+#janitor { text-align: center;
+    
+}
+
+#guro { text-align: center;
+    
+}
+#drayber { text-align: center;
+    
+}
+
+#kunduktor{ text-align: center;
+    
+}
+
+#kababayan { text-align: center;
+    
+}
